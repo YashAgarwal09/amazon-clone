@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YashAgarwal09.github.io/amazon-clone/static/css/main.2388e261.css",
+    "main.js": "/YashAgarwal09.github.io/amazon-clone/static/js/main.dabd04d7.js",
+    "static/js/787.ebd7646a.chunk.js": "/YashAgarwal09.github.io/amazon-clone/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/YashAgarwal09.github.io/amazon-clone/index.html",
+    "main.2388e261.css.map": "/YashAgarwal09.github.io/amazon-clone/static/css/main.2388e261.css.map",
+    "main.dabd04d7.js.map": "/YashAgarwal09.github.io/amazon-clone/static/js/main.dabd04d7.js.map",
+    "787.ebd7646a.chunk.js.map": "/YashAgarwal09.github.io/amazon-clone/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2388e261.css",
+    "static/js/main.dabd04d7.js"
+  ]
+}
